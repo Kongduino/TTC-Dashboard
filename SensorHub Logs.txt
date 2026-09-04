@@ -1,0 +1,318 @@
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 436544638, 'timestamp': 1788354141, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.099998474121094, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 79852497, 'timestamp': 1788354191, 'to': 4294967295, 'from': 431637602, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5625}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 179982463, 'timestamp': 1788354202, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.20000076293945, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1181461632, 'timestamp': 1788354262, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.29999923706055, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3558674561, 'timestamp': 1788354323, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.5, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3916426370, 'timestamp': 1788354384, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.5, 'barometric_pressure': 1018.5999755859375, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2219496579, 'timestamp': 1788354445, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.400001525878906, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2192351364, 'timestamp': 1788354505, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.5, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2263361669, 'timestamp': 1788354566, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 50.099998474121094, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4249822342, 'timestamp': 1788354627, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 50.29999923706055, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3226343559, 'timestamp': 1788354687, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 50.20000076293945, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 614182024, 'timestamp': 1788354748, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.400001525878906, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1006975113, 'timestamp': 1788354809, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.20000076293945, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1332873354, 'timestamp': 1788354870, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 49.099998474121094, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2815469707, 'timestamp': 1788354930, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 48.599998474121094, 'barometric_pressure': 1018.5999755859375, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 142208140, 'timestamp': 1788354991, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.5, 'relative_humidity': 48.79999923706055, 'barometric_pressure': 1018.7000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+2026-09-02 21:31:19,744 - INFO - Connected to mqtt.smartcitizen.me
+2026-09-02 21:31:19,745 - INFO - Subscribing to protobuf: test/sensorhub/2/e/#
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1065327771, 'timestamp': 1788355902, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.599998474121094, 'barometric_pressure': 1018.5, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2211088540, 'timestamp': 1788355963, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.5, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3957990406, 'timestamp': 1788356007, 'to': 4294967295, 'from': 431637602, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.625}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4067192989, 'timestamp': 1788356024, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.5, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1915747486, 'timestamp': 1788356085, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.79999923706055, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2405311647, 'timestamp': 1788356145, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.599998474121094, 'barometric_pressure': 1018.5, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4162250912, 'timestamp': 1788356206, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.5, 'barometric_pressure': 1018.5, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 137940129, 'timestamp': 1788356267, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.599998474121094, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2812406946, 'timestamp': 1788356328, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 49.79999923706055, 'barometric_pressure': 1018.5, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1321466019, 'timestamp': 1788356388, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1734593700, 'timestamp': 1788356449, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.70000076293945, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2426687653, 'timestamp': 1788356510, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.5, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1347280038, 'timestamp': 1788356571, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.5, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2304453799, 'timestamp': 1788356632, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.599998474121094, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 711972008, 'timestamp': 1788356692, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 51.0, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1211390121, 'timestamp': 1788356753, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 51.20000076293945, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2848924842, 'timestamp': 1788356813, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 51.0, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1527877803, 'timestamp': 1788356875, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1637039276, 'timestamp': 1788356935, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.79999923706055, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2983950509, 'timestamp': 1788356996, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 505746606, 'timestamp': 1788357057, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3341289647, 'timestamp': 1788357117, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 51.0, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4009571504, 'timestamp': 1788357178, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.600000381469727, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 653360306, 'timestamp': 1788357300, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.0, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2560081075, 'timestamp': 1788357360, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.599998474121094, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3879285940, 'timestamp': 1788357421, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.400001525878906, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 434246837, 'timestamp': 1788357482, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.70000076293945, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1678096566, 'timestamp': 1788357543, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.5, 'barometric_pressure': 1018.4000244140625, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4281025719, 'timestamp': 1788357604, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.599998474121094, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1412042936, 'timestamp': 1788357664, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.599998474121094, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2346636473, 'timestamp': 1788357728, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.70000076293945, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3695027386, 'timestamp': 1788357786, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.70000076293945, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1714874459, 'timestamp': 1788357832, 'to': 4294967295, 'from': 431637602, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.8125}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 246156475, 'timestamp': 1788357847, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.70000076293945, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4264337596, 'timestamp': 1788357907, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.79999923706055, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2369340605, 'timestamp': 1788357968, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.79999923706055, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2855860414, 'timestamp': 1788358029, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.2999877929688, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2104407231, 'timestamp': 1788358091, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 50.900001525878906, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4169353408, 'timestamp': 1788358150, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.0, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3011181761, 'timestamp': 1788358211, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -25, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.0, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2929766594, 'timestamp': 1788358272, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.400001525878906, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3972044995, 'timestamp': 1788358332, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.700000762939453, 'relative_humidity': 51.29999923706055, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2187809988, 'timestamp': 1788358393, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.29999923706055, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1795656901, 'timestamp': 1788358454, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.29999923706055, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 4208708806, 'timestamp': 1788358515, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.20000076293945, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2781894855, 'timestamp': 1788358575, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -27, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.400001525878906, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3652889800, 'timestamp': 1788358636, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -27, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.400001525878906, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: None
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 1253138633, 'timestamp': 1788358697, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 5.75, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.5, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2920752330, 'timestamp': 1788358758, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -27, 'snr': 6.25, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.400001525878906, 'barometric_pressure': 1018.0999755859375, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 2790346955, 'timestamp': 1788358818, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -27, 'snr': 6.0, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.29999923706055, 'barometric_pressure': 1018.2000122070312, 'wind_speed': 0.0, 'wind_direction': 0}}
+Incoming message! test/sensorhub/2/e/SensorHub/!19ba4462
+  channel: SensorHub
+  user_id: !19ba4462
+json_data: {'id': 3808182476, 'timestamp': 1788358879, 'to': 4294967295, 'from': 539824877, 'channel': 107, 'sender': '!19ba4462', 'type': 'telemetry', 'rssi': -26, 'snr': 6.5, 'hops_away': 0, 'hop_start': 3, 'payload': {'temperature': 29.799999237060547, 'relative_humidity': 51.20000076293945, 'barometric_pressure': 1018.0999755859375, 'wind_speed': 0.0, 'wind_direction': 0}}
